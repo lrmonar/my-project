@@ -1,0 +1,1 @@
+This is the first line of my first text file added to the my-project structure. Next action is to "commit changes" to save file
